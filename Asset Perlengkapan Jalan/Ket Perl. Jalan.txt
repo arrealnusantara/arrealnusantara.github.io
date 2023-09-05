@@ -1,0 +1,21 @@
+Guardrail
+TKDN	: 45,92%
+Jarak Antar Tiang	: 2 Meter
+Tebal Plat Penyangga	: 6 Milimeter
+
+Water Barrier
+TKDN	: 59,87%
+Tinggi	: 80 cm
+Panjang total	: 220 cm
+Panjang body	: 194 cm
+Lebar atas	: 16 cm
+Lebar bawah	: 50 cm
+
+Paku Marka
+Maksimal Tekanan	: 50 Ton
+Bahan			: Tempered Glass
+Merek			: Siglite
+
+Marka Jalan
+TKDN		: 41,65%
+Pigmen/Warna	: Putih

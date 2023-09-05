@@ -1,0 +1,17 @@
+1 - pju
+TKDN		: 54,57%
+Daya Luminer 	: 120W
+Garansi Produk 	: 5 Tahun
+Color Temp.	: 5555K
+
+2 - pju
+TKDN		: 48,12%
+Daya Luminer	: 40W
+Garansi Produk	: 2 Tahun 
+Color Temp.	: 5355K
+
+3 - pju
+TKDN		: 51,05%
+Daya Luminer	: 60W
+Garansi Produk	: 3 Tahun
+Color Temp.	: 3000-6000K 

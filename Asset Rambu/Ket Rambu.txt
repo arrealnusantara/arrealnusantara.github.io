@@ -1,0 +1,14 @@
+R75
+TKDN	: 63,71
+Merk	: 3M
+Masa Berlaku Retroreflektif	: 5 Tahun
+
+RPPJ
+TKDN	: 63,71
+Merk	: 3M
+Masa Berlaku Retroreflektif	: 5 Tahun
+
+RChevron
+TKDN	: 63,71
+Merk	: 3M
+Masa Berlaku Retroreflektif	: 5 Tahun

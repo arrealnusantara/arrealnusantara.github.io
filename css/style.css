@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.navbar{
+    background-color: rgb(147, 191, 207);    
+}
+
+.nav-item{
+    padding: 14px 16px;
+    margin-right: 1em;
+    font-size: 18px;
+    background-color: rgb(147, 191, 207);
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.navsize{
+    font-size: large;
+}
+
+.slebewwww p{
+    margin: 0 0;
+}
+
+.slebewwww img {
+    width: auto;
+    height: 100px;
+    margin-top: 16px;
+    padding-bottom: 5px;
+    transition: transform 0.3s ease;
+}
+
+.slebewwww img:hover {
+    transform: scale(1.1); /* Zoom in slightly on hover */
+}
+
+.nav-item :hover{
+    background-color: aliceblue;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
+
+.navbar-nav{
+    padding-right: 1em;
+}
+
+.slebewsize{
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.containerUT{
+    background-color: rgb(246, 246, 246);
+}
+
+.containerSEC{
+    background-color: white;
+}
+
+.containerTH{
+    background-color :#f4fdff;
+}
+
+.containerFO{
+    background-image: url(../Asset/4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.containerFI{
+    background-color: aliceblue;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.btn{
+    text-align: center;
+}
+
+@media (min-width: 576px){
+    .slebewsize{
+        font-size: x-large;
+    }
+    .navsize{
+        font-size: medium;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .slebewsize{
+        font-size: small;
+    }
+    .nav-item :hover{
+        background-color: transparent;
+    }
+    .navsize{
+        font-size: small;
+    }
+}
