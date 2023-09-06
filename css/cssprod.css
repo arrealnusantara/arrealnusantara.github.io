@@ -4,7 +4,7 @@
 
 .navbar .nav-item{
     padding: 14px 16px;
-    margin-right: 1em;
+    margin-right: 2em;
     font-size: 18px;
     background-color: rgb(71, 150, 178); 
     text-transform: uppercase;
@@ -20,3 +20,33 @@
 .carousel-control-prev{
     color: red;
 }
+
+@media (min-width: 576px){
+    .slebewsize{
+        font-size: x-large;
+    }
+    .navsize{
+        font-size: medium;
+    }
+    .dropdown-menu{
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .slebewsize{
+        font-size: small;
+    }
+    .nav-item :hover{
+        background-color: transparent;
+    }
+    .navsize{
+        font-size: small;
+        margin: 0;
+    }
+    .dropdown-menu{
+        padding: 0;
+    }
+}
+
+

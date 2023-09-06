@@ -89,6 +89,7 @@
     }
     .navsize{
         font-size: medium;
+        margin: 0;
     }
 }
 
@@ -101,5 +102,6 @@
     }
     .navsize{
         font-size: small;
+        margin: 0;
     }
 }
